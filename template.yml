@@ -8,7 +8,7 @@ Metadata:
     Description: AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your AWS account - powered by AWS Step Functions - and it supports multiple optimization strategies.
     Author: Alex Casalboni
     SpdxLicenseId: Apache-2.0
-    LicenseUrl: LICENSE.txt
+    #LicenseUrl: LICENSE.txt
     ReadmeUrl: README-SAR.md
     Labels: ['lambda', 'power', 'state-machine', 'step-functions', 'optimization']
     HomePageUrl: https://github.com/alexcasalboni/aws-lambda-power-tuning
