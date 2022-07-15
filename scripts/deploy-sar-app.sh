@@ -1,7 +1,7 @@
 #!/bin/bash
 # config
-BUCKET_NAME=your-sam-templates-bucket
-STACK_NAME=lambda-power-tuning-app
+BUCKET_NAME=cxss3pd01
+STACK_NAME=sam-cxs
 
 # package
 sam package --s3-bucket $BUCKET_NAME --template-file scripts/deploy-sar-app.yml --output-template-file packaged-sar.yml
